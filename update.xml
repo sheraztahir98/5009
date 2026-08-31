@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.31</version>
-    <url>https://github.com/sheraztahir98/5009/releases/latest/download/petra-setup-v2.31.exe</url>
+    <version>2.32</version>
+    <url>https://github.com/sheraztahir98/5009/releases/latest/download/petra-setup-v2.32.exe</url>
     <changelog>Fixed update download sequence. Added Restart To Install button. Updated UI colors.</changelog>
     <mandatory>false</mandatory>
 </item>
