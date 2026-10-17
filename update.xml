@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>4.40</version>
-    <url>https://github.com/sheraztahir98/5009/releases/latest/download/petra-setup-v4.40.exe</url>
-    <changelog>1.sheet nesting is now more faster
-        
-        2.Now you can add more sheets after nesting.
+    <version>4.25</version>
+    <url>https://github.com/sheraztahir98/5009/releases/latest/download/petra-setup-v4.25.exe</url>
+    <changelog>Now you can add more sheets after nesting.
     </changelog>
     <mandatory>false</mandatory>
 </item>
